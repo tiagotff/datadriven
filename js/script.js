@@ -20,7 +20,7 @@ $(document).ready(function(){
 
   // smooth scrolling 
 
-  $('a[href*="https://franklin390.github.io/pdf/cv/Franklin_Ferreira_Cientista_de_Dados_CV.pdf"]').on('click',function(e){
+  $('a[href="https://franklin390.github.io/pdf/cv/Franklin_Ferreira_Cientista_de_Dados_CV.pdf"]').on('click',function(e){
 
     e.preventDefault();
 
