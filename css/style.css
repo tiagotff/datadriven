@@ -358,15 +358,11 @@ header .navbar ul li a:hover{
     font-weight: normal;
 }
 
-
-.contact .row .content .info h3{
-    font-size: 2.5rem;
-    color:#fff;
-}
-
 .contact .row .content .info h3 i{
     padding-right: 1rem;
     color:var(--yellow);
+    font-size: 2.5rem;
+    color:#fff;
 }
 
 .top{
