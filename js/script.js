@@ -20,7 +20,7 @@ $(document).ready(function(){
 
   // smooth scrolling 
 
-  $('a[href=*"https://github.com/tiagotff/datadriven/cv/CV_Tiago_de_Freitas_Faustino_jul_2022pdf.pdf"]').on('click',function(e){
+  $('a[href=*"https://github.com/tiagotff/datadriven/pdf/cv/CV_Tiago_de_Freitas_Faustino_jul_2022.pdf"]').on('click',function(e){
 
     e.preventDefault();
 
