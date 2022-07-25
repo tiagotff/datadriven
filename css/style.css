@@ -303,6 +303,44 @@ header .navbar ul li a:hover{
     transform: scale(1.2);
 }
 
+
+
+
+
+
+
+.portfolio .box-container .row .info h3 {
+    padding-right: 1rem;
+    color:var(--yellow);
+    font-size: 2.5rem;
+    color:#fff;
+
+    
+.portfolio .row .info{
+    flex:1 1 48rem;
+    padding:2rem 1rem;
+    padding-left: 6rem;
+}
+
+.about .row .info h3{
+    font-size: 2rem;
+    color:var(--yellow);
+    padding:1rem 0;
+    font-weight: normal;
+}
+
+.portfolio .row .info h3 span{
+    color:#eee;
+    padding:0 .5rem;
+} 
+    
+    
+    
+    
+    
+    
+    
+
 .contact .row{
     display: flex;
     align-items: center;
